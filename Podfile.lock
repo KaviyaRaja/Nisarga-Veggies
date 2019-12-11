@@ -1,0 +1,111 @@
+PODS:
+  - Alamofire (4.7.2)
+  - CitrusGraphics (2.1.0)
+  - Cosmos (15.0.0)
+  - Firebase/Analytics (4.13.0):
+    - Firebase/Core
+  - Firebase/Core (4.13.0):
+    - FirebaseAnalytics (= 4.2.0)
+    - FirebaseCore (= 4.0.20)
+  - Firebase/Messaging (4.13.0):
+    - Firebase/Core
+    - FirebaseMessaging (= 2.2.0)
+  - FirebaseAnalytics (4.2.0):
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+    - nanopb (~> 0.3)
+  - FirebaseCore (4.0.20):
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+  - FirebaseInstanceID (2.0.10):
+    - FirebaseCore (~> 4.0)
+  - FirebaseMessaging (2.2.0):
+    - FirebaseAnalytics (~> 4.1)
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
+    - GoogleToolboxForMac/Logger (~> 2.1)
+    - Protobuf (~> 3.5)
+  - FLAnimatedImage (1.0.12)
+  - GoogleToolboxForMac/Defines (2.1.4)
+  - GoogleToolboxForMac/Logger (2.1.4):
+    - GoogleToolboxForMac/Defines (= 2.1.4)
+  - "GoogleToolboxForMac/NSData+zlib (2.1.4)":
+    - GoogleToolboxForMac/Defines (= 2.1.4)
+  - IQKeyboardManagerSwift (6.0.2)
+  - nanopb (0.3.8):
+    - nanopb/decode (= 0.3.8)
+    - nanopb/encode (= 0.3.8)
+  - nanopb/decode (0.3.8)
+  - nanopb/encode (0.3.8)
+  - PayUmoney_CoreSDK (3.2)
+  - PayUmoney_PnP (2.2):
+    - CitrusGraphics
+    - PayUmoney_CoreSDK
+  - Protobuf (3.5.0)
+  - RangeSeekSlider (1.7.0)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - SKActivityIndicatorView (0.1.0)
+  - Toast-Swift (3.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cosmos
+  - Firebase/Analytics
+  - Firebase/Core
+  - Firebase/Messaging
+  - FLAnimatedImage
+  - IQKeyboardManagerSwift
+  - PayUmoney_PnP
+  - RangeSeekSlider
+  - SDWebImage
+  - SKActivityIndicatorView
+  - Toast-Swift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - CitrusGraphics
+    - Cosmos
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseInstanceID
+    - FirebaseMessaging
+    - FLAnimatedImage
+    - GoogleToolboxForMac
+    - IQKeyboardManagerSwift
+    - nanopb
+    - PayUmoney_CoreSDK
+    - PayUmoney_PnP
+    - Protobuf
+    - RangeSeekSlider
+    - SDWebImage
+    - SKActivityIndicatorView
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  CitrusGraphics: 21ca86e16760e4226d48f6e2bfbf0d40d5f8c285
+  Cosmos: a6dbd3d0baa0cc8f51f8598f7508d5a09d0a9ade
+  Firebase: 5ec5e863d269d82d66b4bf56856726f8fb8f0fb3
+  FirebaseAnalytics: 7ef69e76a5142f643aeb47c780e1cdce4e23632e
+  FirebaseCore: 90cb1c53d69b556f112a1bf72b5fcfaad7650790
+  FirebaseInstanceID: 8d20d890d65c917f9f7d9950b6e10a760ad34321
+  FirebaseMessaging: 75cdb862e86c30e0913a2ff307e48d49357c5b73
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  GoogleToolboxForMac: 91c824d21e85b31c2aae9bb011c5027c9b4e738f
+  IQKeyboardManagerSwift: 59d4b0e140bc546c3c76ae5bb35b3dafd10b8172
+  nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
+  PayUmoney_CoreSDK: cfb8fca58220ce424a37b9d83400efbc411b1d25
+  PayUmoney_PnP: 0aaec816e992fd6b67d34514204f4bc5b0c14388
+  Protobuf: 8a9838fba8dae3389230e1b7f8c104aa32389c03
+  RangeSeekSlider: 0386c5a9aa5ebcb2fa5238e8a627280cf46c7c0a
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  SKActivityIndicatorView: f46936f760d33eb8235333242269bf01cc9248ae
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+
+PODFILE CHECKSUM: 39d205ad612784e5102476b514fbc9acee36b108
+
+COCOAPODS: 1.5.0

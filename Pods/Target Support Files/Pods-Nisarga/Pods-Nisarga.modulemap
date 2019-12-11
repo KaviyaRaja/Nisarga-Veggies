@@ -1,0 +1,6 @@
+framework module Pods_Nisarga {
+  umbrella header "Pods-Nisarga-umbrella.h"
+
+  export *
+  module * { export * }
+}
